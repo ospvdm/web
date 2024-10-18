@@ -18,4 +18,4 @@
 
 [Тестовый прогон корзины, оплаты и оформления заказов](https://github.com/ospvdm/web/blob/main/Issues%20(1).xlsx)
 
-[Перехватывание трафика в Charlses на ПК](https://github.com/ospvdm/web/blob/main/1-2_ty0db2P8.mp4)
+[Перехват трафика в Charlses на ПК](https://github.com/ospvdm/web/blob/main/1-2_ty0db2P8.mp4)
